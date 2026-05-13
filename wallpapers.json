@@ -2,42 +2,49 @@
   {
     "title": "Irikoverse 2",
     "category": "IRK Wallpaper",
+    "type": "landscape",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Irikoverse2.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_irikoverse2.jpg"
   },
   {
     "title": "Irikoverse",
     "category": "IRK Wallpaper",
+    "type": "portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Irikoverse.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_Irikoverse.jpg"
   },
   {
     "title": "Momona Koibuchi",
     "category": "Adalah Pokoknya",
+    "type": "portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Momona_Koibuchi.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_momona.jpg"
   },
   {
     "title": "Momona Koibuchi 2",
     "category": "Adalah Pokoknya",
+    "type": "portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Momona_Koibuchi_2.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_momona_koibuchi_2.jpg"
   },
   {
     "title": "Fern",
     "category": "Anime",
+    "type": "portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Fern.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_fern.jpg"
   },
   {
     "title": "JKT48 Freya Winter",
     "category": "JKT48 Member",
+    "type": "portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Freya_JKT48_Winter.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_freya_winter.jpg"
   },
   {
     "title": "JKT48 Freya x Tango",
     "category": "JKT48 Member",
+    "type": "portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Freya_JKT48_x_Tango.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_freya_tango.jpg"
   }
