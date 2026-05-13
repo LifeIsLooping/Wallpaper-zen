@@ -1,12 +1,5 @@
 [
   {
-    "title": "Irikoverse 2",
-    "category": "IRK Wallpaper",
-    "type": "landscape",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Irikoverse2.png",
-    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_irikoverse2.jpg"
-  },
-  {
     "title": "Irikoverse",
     "category": "IRK Wallpaper",
     "type": "portrait",
@@ -19,6 +12,13 @@
     "type": "portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Momona_Koibuchi.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_momona.jpg"
+  },
+  {
+    "title": "Irikoverse 2",
+    "category": "IRK Wallpaper",
+    "type": "landscape",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Irikoverse2.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_irikoverse2.jpg"
   },
   {
     "title": "Momona Koibuchi 2",
