@@ -1,26 +1,38 @@
 [
   {
-    "title": "Momona Koibuchi (adalah pokoknya)",
-    "author": "Ryz Desu",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Momona%20Koibuchi.png",
-    "thumbnail": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Momona%20Koibuchi.png"
+    "title": "Irikoverse",
+    "category": "IRK Wallpaper",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Irikoverse.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_irikoverse.jpg"
+  },
+  {
+    "title": "Momona Koibuchi",
+    "category": "Adalah Pokoknya",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Momona_Koibuchi.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_momona.jpg"
+  },
+  {
+    "title": "Momona Koibuchi 2",
+    "category": "Adalah Pokoknya",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Momona_Koibuchi_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_momona_koibuchi_2.jpg"
   },
   {
     "title": "Fern",
-    "author": "Ryz Desu",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Fern.png",
-    "thumbnail": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Fern.png"
+    "category": "Anime",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Fern.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_fern.jpg"
   },
   {
-    "title": "Freya JKT48 Winter",
-    "author": "Ryz Desu",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Freya%20JKT48%20Winter.png",
-    "thumbnail": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Freya%20JKT48%20Winter.png"
+    "title": "JKT48 Freya Winter",
+    "category": "JKT48 Member",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Freya_JKT48_Winter.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_freya_winter.jpg"
   },
   {
-    "title": "Freya JKT48 x Tango",
-    "author": "Ryz Desu",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Freya%20JKT48%20x%20Tango.png",
-    "thumbnail": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/Freya%20JKT48%20x%20Tango.png"
+    "title": "JKT48 Freya x Tango",
+    "category": "JKT48 Member",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/Freya_JKT48_x_Tango.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_freya_tango.jpg"
   }
 ]
