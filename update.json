@@ -1,7 +1,7 @@
 {
-  "header_notif“ : “The application is under maintenance",
-  "notif_value" : "Halo cuy",
-  "latest_version": "3",
-  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/main/app/Zen_3D_Colorful_release.apk",
-  "changelog": "Perbaikan bug dan penambahan wallpaper vector baru!"
+  "latest_version": "3.0",
+  "header_notif": "Woi Ada Fitur Baru!",
+  "notif_value": "Buruan update biar aplikasi makin kenceng.",
+  "changelog": "- Perbaikan bug crash\n- UI baru makin mantap",
+  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/main/app/Zen_3D_Colorful_release.apk"
 }
