@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.0",
+  "latest_version": "1.0",
   "header_notif": "Woi Ada Fitur Baru!",
   "notif_value": "Buruan update biar aplikasi makin kenceng.",
   "changelog": "- Perbaikan bug crash\n- UI baru makin mantap",
-  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/main/app/Zen_3D_Colorful_release.apk"
+  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/main/app/Zen_3D_Colorful_v1.apk"
 }
