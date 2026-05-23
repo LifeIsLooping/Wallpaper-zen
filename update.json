@@ -1,8 +1,7 @@
 {
-  "latest_version": "1.6",
-  "header_notif": "Penambahan Wallapaper!",
-  "notif_value": "Ada yang baru ditambahin loh.
-Sekarang lu bisa akses lagi wallpaper nya.",
-  "changelog": "Fix bug wallpaper page",
-  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/main/app/Zen_3D_Colorful_v1.6"
+  "latest_version": "1.0",
+  "header_notif": "Nothing",
+  "notif_value": "",
+  "changelog": "",
+  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/main/app/Zen_3D_Colorful_"
 }
