@@ -1,10 +1,7 @@
 {
-  "notif_id": "update_v1.2",
-  "notif_type": "update",
-  "version_code": 999,
-  "latest_version": "9.9.9",
-  "header_notif": "Update Baru Tersedia",
-  "notif_value": "Zen Colorful v2.1 siap diunduh",
-  "changelog": "Tambah Style 8\nPerbaikan Wallpaper",
-  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/releases"
+  "latest_version": "2.9",
+  "header_notif": "Ngetest wok",
+  "notif_value": "kosongin aja lah",
+  "changelog": "0",
+  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/main/app/Zen_3D_Colorful_v2.9"
 }
