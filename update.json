@@ -1,8 +1,8 @@
 {
   "notif_id": "update_v1.1",
   "notif_type": "update",
-  "version_code": 99,
-  "latest_version": "9.9",
+  "version_code": 999,
+  "latest_version": "9.9.9",
   "header_notif": "Update Baru Tersedia",
   "notif_value": "Zen Colorful v2.1 siap diunduh",
   "changelog": "Tambah Style 8\nPerbaikan Wallpaper",
