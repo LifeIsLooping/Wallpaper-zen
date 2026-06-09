@@ -1,13 +1,13 @@
 {
   "notif_type": "update",
 
-  "version_code": 21,
+  "version_code": 1,
 
-  "latest_version": "2.1",
+  "latest_version": "1",
 
-  "header_notif": "Selamat hari rabu",
+  "header_notif": "",
 
-  "notif_value": "ngetest",
+  "notif_value": "",
 
   "changelog": "Tambah Style 8\nPerbaikan Wallpaper",
 
