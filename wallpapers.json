@@ -34,6 +34,47 @@
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/cat_3.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_3.png"
   },
+  {    "title": "His Royal Highness of the Clouds",
+    "category": "Anabul",
+    "type": "Portrait",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/cat_7.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_7.png"
+  },
+  {
+    "title": "The Distinguished Skyward Observer",
+    "category": "Anabul",
+    "type": "Portrait",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/cat_4.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_4.png"
+  },
+  {
+    "title": "Sir Sunbeam, the Contemplative",
+    "category": "Anabul",
+    "type": "Portrait",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/cat_6.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_6.png"
+  },
+  {
+    "title": "The Esteemed Inspector of Shadows",
+    "category": "Anabul",
+    "type": "Portrait",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/cat_5.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_5.png"
+  },
+  {
+    "title": "Cat Couple Male",
+    "category": "Anabul",
+    "type": "Portrait",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/cat_couple_male.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_couple_male.png"
+  },
+  {
+    "title": "Cat Couple Female",
+    "category": "Anabul",
+    "type": "Portrait",
+    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/cat_couple_female.png",
+    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_couple_female.png"
+  },
   {
     "title": "JKT48 Freya Winter",
     "category": "Member JKT48",
@@ -257,47 +298,5 @@
     "type": "Portrait",
     "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/walls/JKT48_Freya_1.png",
     "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_jkt48_freya_1.png"
-  },
-  {
-    "title": "His Royal Highness of the Clouds",
-    "category": "Anabul",
-    "type": "Portrait",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/wallpapers/cat_7.png",
-    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_7.png"
-  },
-  {
-    "title": "The Distinguished Skyward Observer",
-    "category": "Anabul",
-    "type": "Portrait",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/wallpapers/cat_4.png",
-    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_4.png"
-  },
-  {
-    "title": "Sir Sunbeam, the Contemplative",
-    "category": "Anabul",
-    "type": "Portrait",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/wallpapers/cat_6.png",
-    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_6.png"
-  },
-  {
-    "title": "The Esteemed Inspector of Shadows",
-    "category": "Anabul",
-    "type": "Portrait",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/wallpapers/cat_5.png",
-    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_5.png"
-  },
-  {
-    "title": "Cat Couple Male",
-    "category": "Anabul",
-    "type": "Portrait",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/wallpapers/cat_couple_male.png",
-    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_couple_male.png"
-  },
-  {
-    "title": "Cat Couple Female",
-    "category": "Anabul",
-    "type": "Portrait",
-    "url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/wallpapers/cat_couple_female.png",
-    "thumbnail": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/thumbs/thumb_cat_couple_female.png"
   }
 ]
