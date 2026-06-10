@@ -1,9 +1,9 @@
 {
   "notif_type": "update",
-  "version_code": 12,
-  "latest_version": "1.2",
-  "header_notif": "Ngetest yang ke 5",
-  "notif_value": "Gatau",
-  "changelog": "Ini juga gatau",
-  "update_url": "kosongin aja dulu"
+  "version_code": 1,
+  "latest_version": "1",
+  "header_notif": "",
+  "notif_value": "",
+  "changelog": "",
+  "update_url": "google.com"
 }
