@@ -1,15 +1,9 @@
 {
   "notif_type": "update",
-
-  "version_code": 1,
-
-  "latest_version": "1",
-
-  "header_notif": "",
-
-  "notif_value": "",
-
-  "changelog": "Tambah Style 8\nPerbaikan Wallpaper",
-
-  "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/releases"
+  "version_code": 11,
+  "latest_version": 11,
+  "header_notif": "Halo",
+  "notif_value": "Test",
+  "changelog": "Oke",
+  "update_url": "link nya apa"
 }
