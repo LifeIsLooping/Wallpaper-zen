@@ -2,8 +2,8 @@
   "notif_type": "update",
   "version_code": 11,
   "latest_version": "1.1",
-  "header_notif": "Test lagi",
-  "notif_value": "Ngetest lagi kita cuy",
-  "changelog": "Gatau",
-  "update_url": "masih kosong dulu"
+  "header_notif": "Halo cuy",
+  "notif_value": "Ngetest yang ke 4",
+  "changelog": "Kosongin aja dulu",
+  "update_url": "klo ini beneran kosong"
 }
