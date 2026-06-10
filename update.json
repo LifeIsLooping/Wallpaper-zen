@@ -1,9 +1,9 @@
 {
-  "notif_type": "update",
+  "notif_type": "notice",
   "version_code": 1,
-  "latest_version": "1",
-  "header_notif": "",
-  "notif_value": "",
-  "changelog": "",
-  "update_url": "google.com"
+  "latest_version": "1.0",
+  "header_notif": "Ngetest doang bang",
+  "notif_value": "Harusnya kosong",
+  "changelog": "Ini juga kosong",
+  "update_url": "friv.com"
 }
