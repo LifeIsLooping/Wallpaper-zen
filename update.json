@@ -1,9 +1,9 @@
 {
   "notif_type": "update",
   "version_code": 11,
-  "latest_version": 11,
-  "header_notif": "Halo",
-  "notif_value": "Test",
-  "changelog": "Oke",
-  "update_url": "link nya apa"
+  "latest_version": "1.1",
+  "header_notif": "Test lagi",
+  "notif_value": "Ngetest lagi kita cuy",
+  "changelog": "Gatau",
+  "update_url": "masih kosong dulu"
 }
