@@ -2,7 +2,8 @@
   "notif_type": "notice",
   "version_code": 1,
   "latest_version": "1",
-  "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/011877b54923620afdd56712eac25cef.jpg"
+  "force_update": false,
+  "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/011877b54923620afdd56712eac25cef.jpg",
   "header_notif": "Ngetest wok",
   "notif_value": "Kamu udah update aplikasi nya ke versi terbaru belum cuy",
   "changelog": "",
