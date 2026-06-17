@@ -1,11 +1,11 @@
 {
   "notif_type": "notice",
   "version_code": 1,
-  "latest_version": "1.0",
+  "latest_version": "1.2",
   "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
-  "header_notif": "Halo",
-  "notif_value": "Cuuuy",
+  "header_notif": "Ngetest cuy",
+  "notif_value": "Apa ya",
   "changelog": "",
-  "update_url": "google.com"
+  "update_url": "github.com"
 }
