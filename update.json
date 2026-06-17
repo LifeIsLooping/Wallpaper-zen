@@ -2,7 +2,8 @@
   "notif_type": "notice",
   "version_code": 1,
   "latest_version": "1",
-  "header_notif": "Udah diupdate belom nih?",
+  "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/011877b54923620afdd56712eac25cef.jpg"
+  "header_notif": "Ngetest wok",
   "notif_value": "Kamu udah update aplikasi nya ke versi terbaru belum cuy",
   "changelog": "",
   "update_url": "https://github.com/LifeIsLooping/Wallpaper-zen/raw/3a32a6344069a47d5a6a53e8dfbcc02c67dff815/app/Zen_colorful_1.0_early_acces.apk"
