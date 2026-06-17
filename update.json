@@ -2,7 +2,7 @@
   "notif_type": "update",
   "version_code": 11,
   "latest_version": "1.9",
-  "force_update": false,
+  "force_update": true,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
   "header_notif": "Ada update nih cuy",
   "notif_value": "Ada yang baru loh cuy, yuk cek sekarang!.",
