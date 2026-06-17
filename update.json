@@ -1,7 +1,7 @@
 {
   "notif_type": "update",
-  "version_code": 1.1,
-  "latest_version": "1.1 (fix some bugs)",
+  "version_code": 11,
+  "latest_version": "1.1",
   "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
   "header_notif": "Ada update nih cuy",
