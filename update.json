@@ -1,11 +1,11 @@
 {
-  "notif_type": "update",
-  "version_code": 11,
-  "latest_version": "1.9",
-  "force_update": true,
+  "notif_type": "notice",
+  "version_code": 1,
+  "latest_version": "1.0",
+  "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
-  "header_notif": "Ada update nih cuy",
-  "notif_value": "Ada yang baru loh cuy, yuk cek sekarang!.",
-  "changelog": "- Fix auto get update to early\\n- Fix Language\\n- Dialogue background adjustments",
-  "update_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/app/Zen_colorful_1.0%20early%20access.apk"
+  "header_notif": "Udah diupdate belum ke versi terbaru?",
+  "notif_value": "Rugi kalau belum update dan cobain fitur terbarunya cuy!.",
+  "changelog": "",
+  "update_url": "github.com"
 }
