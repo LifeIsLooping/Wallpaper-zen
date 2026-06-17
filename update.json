@@ -1,11 +1,11 @@
 {
-  "notif_type": "notice",
+  "notif_type": "event",
   "version_code": 1,
   "latest_version": "1.2",
   "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
-  "header_notif": "Ngetest cuy",
-  "notif_value": "Apa ya",
+  "header_notif": "Test",
+  "notif_value": "Ngetest doang wok",
   "changelog": "",
   "update_url": "github.com"
 }
