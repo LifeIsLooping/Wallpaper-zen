@@ -1,11 +1,11 @@
 {
   "notif_type": "event",
   "version_code": 1,
-  "latest_version": "1.4",
+  "latest_version": "1.9",
   "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
   "header_notif": "Selamat hari rabu",
-  "notif_value": "Selamat hari rabu untuk orang yang masih terjebak di masa lalu.",
+  "notif_value": "Kosongin aja dah",
   "changelog": "",
   "update_url": "google.com"
 }
