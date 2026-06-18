@@ -1,11 +1,11 @@
 {
   "notif_type": "notice",
   "version_code": 1,
-  "latest_version": "1.0",
+  "latest_version": "1.0 (Notice 1)",
   "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
-  "header_notif": "Udah diupdate belum ke versi terbaru?",
-  "notif_value": "Rugi kalau belum update dan cobain fitur terbarunya cuy!.",
+  "header_notif": "Sudahkah kamu dapat asupan meme hari ini?",
+  "notif_value": "Yaudah nih gw kasih deh",
   "changelog": "",
-  "update_url": "github.com"
+  "update_url": "google.com"
 }
