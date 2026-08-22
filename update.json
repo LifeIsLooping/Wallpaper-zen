@@ -1,11 +1,11 @@
 {
-  "notif_type": "notice",
-  "version_code": 1,
-  "latest_version": "1.0 (Notice 1)",
+  "notif_type": "update",
+  "version_code": 16,
+  "latest_version": "1.6",
   "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
-  "header_notif": "Sudahkah kamu dapat asupan meme hari ini?",
-  "notif_value": "Yaudah nih gw kasih deh",
-  "changelog": "",
+  "header_notif": "Ada update cuy",
+  "notif_value": "Gassin update dulu",
+  "changelog": "Test\nTest2\nTest3\nTest4",
   "update_url": "google.com"
 }
