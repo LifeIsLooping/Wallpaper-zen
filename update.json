@@ -1,11 +1,11 @@
 {
-  "notif_type": "update",
-  "version_code": 16,
-  "latest_version": "1.6",
+  "notif_type": "notice",
+  "version_code": 2,
+  "latest_version": "2.0",
   "force_update": false,
   "image_url": "https://raw.githubusercontent.com/LifeIsLooping/Wallpaper-zen/main/notification/header_image.jpg",
-  "header_notif": "Ada update cuy",
-  "notif_value": "Gassin update dulu",
-  "changelog": "Test\nTest2\nTest3\nTest4",
+  "header_notif": "Halo bang",
+  "notif_value": "Selamat sore",
+  "changelog": "Kosong",
   "update_url": "google.com"
 }
